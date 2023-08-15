@@ -1,3 +1,3 @@
 # git-workshop-1
 
-Martha's sentence. 
+Martha's sentence. Another word. 
